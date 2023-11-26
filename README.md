@@ -1,16 +1,7 @@
-# destini
+# Destini
 
-A new Flutter project.
+Welcome to Destini, an interactive story game built using Flutter! Embark on an immersive journey where your choices shape the narrative and determine the outcome of the story.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://firebasestorage.googleapis.com/v0/b/pager-3c967.appspot.com/o/destini%2Fdestini1.png?alt=media&token=34119db4-776c-4360-b74b-020ec08c7554)
+![](https://firebasestorage.googleapis.com/v0/b/pager-3c967.appspot.com/o/destini%2Fdestini2.png?alt=media&token=291bcbf8-ff55-46db-827f-f13e72a09cd9)
